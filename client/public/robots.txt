@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+
+
+merchant ID: 5ddrqzjvb8g556c9
+Public Key: 8666kb3ptpx2nttr
+private key: 2d81c4070be20cd958da269ab8aa1d9e
